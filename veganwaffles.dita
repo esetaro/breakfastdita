@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_spp_nz3_kz">
+    <title>How to Make Blueberry Oatmeal Waffles
+    </title>
+    <shortdesc>Waffles are an excellent way to start your day. These delicious Blueberry Waffles are
+        both yummy and healthy.<image href="setaro.DITA.breakfast/blueberrywaffle.jpg"
+            id="image_vmc_tdj_kz"/></shortdesc>
+    <taskbody>
+        <context>
+            <p>Food Ingredients</p>
+            <ul>
+                <li>1 cup white whole wheat flour
+                </li>
+                <li>1 tbsp baking powder
+                </li> 
+                <li>1/2 tsp salt 
+                </li> 
+                <li>1/4 tsp ground allspice
+                </li> 
+                <li>1 cup quick cooking oats 
+                </li> 
+                <li>1/3 cup unsweetened applesauce 
+                </li> 
+                <li>1 1/2 cups unsweetened almond milk 
+                </li> 
+                <li>3 tbsp pure maple syrup
+                </li> 
+                <li>2 tbsp canola oil
+                </li> 
+                <li>1 tsp pure vanilla extract  
+                </li>
+                <li>1 1/2 cups frozen blueberries
+                </li>
+            </ul>
+            <p>Kitchen Utensils</p>
+            <ul>
+                <li>Waffle iron</li>
+                <li>Large mixing bowl</li>
+                <li>Spatula</li>     
+            </ul>
+        </context>
+        <steps>
+            <step>
+                <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Mix in the oats. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Make a well in the center and add applesauce, milk, maple syrup, oil and vanilla. </cmd>
+            </step>
+            <step>
+                <cmd> Stir until combined.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Let batter rest for 5 minutes, it will thicken a bit. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Fold in the blueberries. 
+                </cmd>
+            </step>
+            <step>
+                <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Grease the waffle iron with cooking spray.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Pour a cup of mixed batter into the center of the hot waffle iron and close the lid.</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 5 minutes and carefully remove waffle.</cmd>
+            </step>
+            <step>
+                <cmd>Repeat steps 8-10 until you have used up all the batter. 
+                </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
