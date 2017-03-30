@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="task_spp_nz3_kz">
-    <title>How to Make Blueberry Oatmeal Waffles
-    </title>
-    <shortdesc>Waffles are an excellent way to start your day. These delicious Blueberry Waffles are
-        both healthy and easy to make. </shortdesc>
+<task id="task_ax4_dhk_kz">
+    <title>How to Make Waffles</title>
+    <shortdesc>Waffles are an excellent way to start your day. These delicious waffles are hearty, healthy, and easy to make.</shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
             <ul>
                 <li>1 cup white whole wheat flour</li>
-                <li>1 tbsp baking powder</li> 
-                <li>1/2 tsp salt</li> 
-                <li>1/4 tsp ground allspice</li> 
-                <li>1 cup quick cooking oats</li> 
-                <li>1/3 cup unsweetened applesauce</li> 
-                <li>1 1/2 cups unsweetened almond milk</li> 
-                <li>3 tbsp pure maple syrup</li> 
-                <li>2 tbsp canola oil</li> 
-                <li>1 tsp pure vanilla extract</li>
-                <li>1 1/2 cups frozen blueberries</li>
-            </ul>
+                <li>1 tablespoon baking powder</li>
+                <li>1/2 teaspoon salt</li>
+                <li>1 1/3 cups milk</li>
+                <li>2 tablespoons vegetable oil</li>
+                <li>1 egg</li>
+                <li>1 cup shredded Cheddar cheese</li>
+                <li>1/3 lb pork sausage, cooked and drained (1 cup)</li>
+                </ul>
             <p>Kitchen Utensils</p>
             <ul>
                 <li>Waffle iron</li>
                 <li>Large mixing bowl</li>
-                <li>Spatula</li>     
+                <li>Spatula</li> 
             </ul>
         </context>
         <steps>
             <step>
-                <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl.</cmd>
+                <cmd>Sift flour, baking powder, and salt into a mixing bowl.</cmd>
             </step>
             <step>
-                <cmd>Mix in the oats.</cmd>
+                <cmd>Mix in the milk.</cmd>
             </step>
             <step>
-                <cmd>Make a well in the center and add applesauce, milk, maple syrup, oil and vanilla. </cmd>
+                <cmd>Make a well in the center and oil, egg, cheese and sausage.</cmd>
             </step>
             <step>
-                <cmd> Stir until combined.</cmd>
+                <cmd>Stir until combined.</cmd>
             </step>
             <step>
                 <cmd>Let batter rest for 5 minutes, it will thicken a bit.</cmd>
-            </step>
-            <step>
-                <cmd>Fold in the blueberries.</cmd>
             </step>
             <step>
                 <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.</cmd>
@@ -60,7 +52,7 @@
                 <cmd>Bake for 5 minutes and carefully remove waffle.</cmd>
             </step>
             <step>
-                <cmd>Repeat steps 8-10 until you have used up all the batter.</cmd>
+                <cmd>Repeat steps 7-9 until you have used up all the batter.</cmd>
             </step>
         </steps>
     </taskbody>
