@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ax4_dhk_kz">
     <title>How to Make Waffles</title>
-    <shortdesc>Waffles are an excellent way to start your day. These delicious waffles are hearty, healthy, and easy to make.</shortdesc>
+    <shortdesc>Waffles are an excellent way to start your day. These delicious waffles are hearty,
+        healthy, and easy to make.<image href="waffle.jpg" width="400" height="500"
+            id="image_l5n_rlk_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
