@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_bjj_1lk_kz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Make a Potato and Chorizo Breakfast Hash</title>
+    <shortdesc>Delicious and filling: the perfect combination!<image href="images%20/hash.jpg"
+            width="400" height="300" id="image_k4w_h2n_kz"/></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Food Ingredients</p>
+            <ul>
+                <li>1 large onion</li>
+                <li>1 clove of garlic</li>
+                <li>1/4 lb chorizo</li>
+                <li>3 cooked potatoes</li>
+                <li>1/2 bucnh of fresh parsley</li>
+                <li>olive oil</li>
+                <li>2 large eggs</li>
+            </ul>
+            <p>Kitchen Untensils</p>
+            <ul>
+                <li>Oven</li>
+                <li>Spatula</li>
+                <li>Medium skillet</li>
+            </ul>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Preheat the oven to 350 F. </cmd>
+            </step>
+            <step>
+                <cmd>Peel and finely chop the onion and garlic, chop the chorizo, dice up the cooked potato and finely chop the parsley.</cmd>
+            </step>
+            <step>
+                <cmd>Gently fry the onion and garlic in a little oil in an ovenproof pan until the onion is soft. </cmd>
+            </step>
+            <step>
+                <cmd>Add the chorizo and fry for 2 to 3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Add the potatoes and cook for 5 minutes more, then crack the eggs on top.</cmd>
+            </step>
+            <step>
+                <cmd> Transfer the pan to the preheated oven and bake for 8 minutes, or until the egg white is set but the yolk is still runny.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle with sea salt, black pepper and the parsley, to serve.</cmd>
             </step>
         </steps>
     </taskbody>
