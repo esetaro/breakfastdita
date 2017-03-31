@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ql2_clk_kz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Make a Breakfast Sandwich</title>
+    <shortdesc>A breakfast is both easy to make and filling.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Food Ingredients</p>
+            <ul>
+                <li></li>
+            </ul>
         </context>
         <steps>
             <step>
