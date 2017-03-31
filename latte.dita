@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_dwj_j4l_kz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Make a Latte</title>
+    <shortdesc>Ever had a homemade latte? This latte recipe can be made at home without an espresso
+            machine!<image href="images%20/latte.jpg" width="300" height="400" id="image_h11_cxm_kz"
+        /></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Food Ingredients</p>
+            <ul>
+                <li>Strongly brewed coffee</li>
+                <li>2% or nonfat milk</li> 
+                <li> Cocoa powder, to garnish </li>
+            </ul>
+           <p>Kitchen Untensils</p>
+            <ul>
+                <li>Coffee maker</li>
+                <li>Coffee cup, wide and shallow</li>
+                <li>Spoon</li>
+                <li>Jar with lid</li>
+            </ul>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Open cabinet and remove coffee grounds and filter.</cmd>
+            </step>
+            <step>
+                <cmd>Place 5 tbsp of coffee grounds in filter, then place the filter in the coffee maker.</cmd>
+            </step>
+            <step>
+                <cmd>Pour 2 cups of water in the spout located at the topc of the coffee maker.</cmd>
+            </step>
+            <step>
+                <cmd>Press the ON button and wait for the coffee to brew.</cmd>
+            </step>
+            <step>
+                <cmd>Pour milk into the jar and fill halfway.</cmd>
+            </step>
+            <step>
+                <cmd>Screw the lid on tightly, and shake the jar as hard as you can until the milk is frothy and has roughly doubled in volume, 30 to 60 seconds.</cmd>
+            </step>
+            <step>
+                <cmd>Microwave the milk and take the lid off the jar and microwave uncovered for 30 seconds. </cmd>
+            </step>
+            <step>
+                <cmd>Pour the coffee into a wide, shallow coffee cup.</cmd>
+            </step>
+            <step>
+                <cmd>Use a large spoon to hold back the milk foam, and pour as much warm milk as you would like into the espresso.</cmd>
+            </step>
+            <step>
+                <cmd>Add foam and spoon as much milk foam as you would like onto your latte.</cmd>
             </step>
         </steps>
     </taskbody>
