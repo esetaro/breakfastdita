@@ -25,7 +25,8 @@
             <li>Oven <image href="images%20/oven.jpg" width="100" height="200" id="image_aq5_byt_kz"
                     /></li>
             <li>Oven mitts</li>
-            <li>Food processor</li>
+            <li>Food processor<image href="images%20/foodp.jpg" width="250" height="200"
+                        id="image_oxl_fl5_kz"/></li>
             <li>Medium mixing bowl</li>
             </ul>
         </context>
