@@ -11,9 +11,9 @@
             <ul>
                 <li>3/4 cup firm silken tofu, drained and gently patted dry</li>
                 <li>2 tbsp hummus</li>
-                <li> 2 large cloves of garlic, minced </li>
+                <li>2 large cloves of garlic, minced </li>
                 <li>2 tbsp yeast</li>
-                <li>salt and black pepper</li>
+                <li>Salt and black pepper</li>
                 <li>1/4 tsp paprika </li>
                 <li>1 tsp cornstarch</li>
                 <li>1 cup veggies of choice (onion, tomato, mushroom, spinach) </li>
@@ -22,7 +22,8 @@
             <ul>
             <li>Medium skillet</li>
             <li>Spatula</li>
-            <li>Oven </li>
+            <li>Oven <image href="images%20/oven.jpg" width="100" height="200" id="image_aq5_byt_kz"
+                    /></li>
             <li>Oven mitts</li>
             <li>Food processor</li>
             <li>Medium mixing bowl</li>
@@ -51,7 +52,8 @@
                 <cmd>Add a bit more olive oil and the veggies to the warm skillet and season with salt and pepper and sauté to desired doneness. </cmd>
             </step>
             <step>
-                <cmd> Remove skillet from heat and make sure it’s coated with enough oil so the omelet doesn’t stick. </cmd>
+                <cmd>Remove skillet from heat and make sure it’s coated with enough oil so the
+                    omelet doesn’t stick. </cmd>
             </step>
             <step>
                 <cmd>Add back 1/4 of the veggies and spoon on the omelet batter, spreading it gently with a spoon or rubber spatula, being careful not to tear or cause gaps.</cmd>

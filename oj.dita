@@ -15,7 +15,8 @@
             </ul>
             <p>Kitchen Utensils </p>
             <ul>
-                <li>Juicer</li>
+                <li>Juicer<image href="images%20/juicer.jpg" width="150" height="150"
+                        id="image_dwr_2yt_kz"/></li>
                 <li>Glass</li>
                 <li>Cutting board</li> 
                 <li>Knife</li>

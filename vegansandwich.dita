@@ -11,7 +11,7 @@
             <ul>
                 <li>1 English Muffin</li>
                <li>4 strips tempeh bacon</li>
-                <li> Sprinkle of Daiya vegan cheese</li>
+                <li>Sprinkle of Daiya vegan cheese</li>
                 <li>2 leaves butter lettuce</li>
                 <li>2 slices of tomato</li>
                 <li>3 slices of ripe avocado</li>
@@ -34,13 +34,15 @@
                 <cmd>Spread one side of your English muffin with a light coat of vegan mayo.</cmd>
             </step>
             <step>
-                <cmd> Spread the other side with some roasted garlic hummus.</cmd>
+                <cmd>Spread the other side with some roasted garlic hummus.</cmd>
             </step>
             <step>
                 <cmd>On one half add 4 slices of tempeh bacon and add a sprinkle of the Daiya cheese on top of the tempeh bacon.</cmd>
             </step>
             <step>
-                <cmd> Make sure your sandwich is nice and hot before opening it up and adding 1-2 slices of butter lettuce, 1-2 slices of tomato, sliced avocado, and a pinch each of salt and pepper.</cmd>
+                <cmd>Make sure your sandwich is nice and hot before opening it up and adding 1-2
+                    slices of butter lettuce, 1-2 slices of tomato, sliced avocado, and a pinch each
+                    of salt and pepper.</cmd>
             </step>
         </steps>
     </taskbody>

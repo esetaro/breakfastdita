@@ -24,7 +24,8 @@
             </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>Waffle iron</li>
+                <li>Waffle iron<image href="images%20/waffle%20iron.jpg" width="200" height="150"
+                        id="image_spn_xxt_kz"/></li>
                 <li>Large mixing bowl</li>
                 <li>Spatula</li>     
             </ul>
@@ -40,7 +41,7 @@
                 <cmd>Make a well in the center and add applesauce, milk, maple syrup, oil and vanilla. </cmd>
             </step>
             <step>
-                <cmd> Stir until combined.</cmd>
+                <cmd>Stir until combined.</cmd>
             </step>
             <step>
                 <cmd>Let batter rest for 5 minutes, it will thicken a bit.</cmd>

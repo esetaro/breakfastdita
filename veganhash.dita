@@ -13,21 +13,26 @@
                 <li>2 tbsp olive oil</li>
                 <li>1 medium onion, finely chopped</li>
                 <li>1 medium green or red bell pepper, finely diced</li>
-                <li> 8 ounces package tempeh meat substitute, finely diced</li>
+                <li>8 ounces package tempeh meat substitute, finely diced</li>
                 <li>1 tsp smoked paprika</li>
                 <li>6 leaves kale, stemmed and finely chopped</li>
                 <li>Salt and black pepper to taste</li>
             </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>Oven</li>
+                <li>Oven<image href="images%20/oven.jpg" width="100" height="200"
+                        id="image_hn5_zxt_kz"/></li>
                 <li>Spatula</li>
                 <li>Medium skillet</li>
             </ul>
         </context>
         <steps>
             <step>
-                <cmd> Microwave the potatoes whole for 10 minutes until done but still firm and finely dice them.</cmd>
+                <cmd>Microwave the potatoes whole for 10 minutes until done by placing them in the
+                    microwave for 10 minutes</cmd>
+            </step>
+            <step>
+                <cmd> Remove from the microwave and finely dice the potatoes.</cmd>
             </step>
             <step>
                 <cmd>Heat the oil in a large skillet.</cmd>

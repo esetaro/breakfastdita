@@ -15,7 +15,8 @@
             </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>Blender</li>
+                <li>Blender<image href="images%20/blender.jpg" width="150" height="200"
+                        id="image_vxm_dyt_kz"/></li>
                 <li>Glass</li>
             </ul>
         </context>

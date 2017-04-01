@@ -20,7 +20,8 @@
                 </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>Waffle iron</li>
+                <li>Waffle iron<image href="images%20/waffle%20iron.jpg" width="200" height="150"
+                        id="image_tpc_wxt_kz"/></li>
                 <li>Large mixing bowl</li>
                 <li>Spatula</li> 
             </ul>
