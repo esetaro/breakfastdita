@@ -2,18 +2,52 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_ql2_clk_kz">
     <title>How to Make a Breakfast Sandwich</title>
-    <shortdesc>A breakfast is both easy to make and filling.</shortdesc>
+    <shortdesc>A breakfast is both easy to make and filling.<image href="images%20/sandwich.jpg"
+            width="450" height="400" id="image_axk_xtt_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
             <ul>
-                <li></li>
+                <li>1 English muffin</li>
+                <li>2 eggs</li>
+                <li>4 slices of ham</li>
+                <li>1/3 cup finely shredded cheese</li>
+                <li>1 tsp chives, finely chopped</li>
+                <li>salt and pepper, to taste</li>
+                <li>1 tbsp olive oil</li>
+            </ul>
+            <p>Kitchen Ingredients</p>
+            <ul>
+                <li>Medium skillet</li>  
+                <li>Cutting board</li>
+                <li>Knife</li>
             </ul>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Heat a large non-stick pan over MEDIUM heat and drizzle with 1 tbsp oil.</cmd>
             </step>
+            <step>
+                <cmd>Place your English muffin on half of the pan cut-side down.</cmd>
+            </step>
+            <step>
+                <cmd>Crack 2 eggs side by side on the other half of the pan and break the yolks with a spatula.</cmd>
+            </step>
+            <step>
+                <cmd> Once eggs are mostly cooked through, sprinkle tops with salt and pepper to taste, 1 tsp fresh chives and half of shredded cheese. ></cmd>
+            </step>
+            <step>
+                <cmd>Place toasted English muffins cut-side-down over the eggs and lightly press on the tops with a spatula.></cmd>
+            </step>
+            <step>
+                <cmd>Flip the sandwich over (egg-side-up). </cmd>
+            </step>
+            <step>
+                <cmd>Place ham over half of your sandwich and top with more cheese. </cmd>
+            </step>
+            <step>
+                <cmd>Fold the sandwich together and remove from heat.</cmd>
+            </step> 
         </steps>
     </taskbody>
 </task>
