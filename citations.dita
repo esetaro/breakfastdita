@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_rlx_b45_kz">
- <title></title>
- <shortdesc></shortdesc>
+ <title>Citations</title>
+ <shortdesc>Included are all the sources I used to create this breakfats guide.</shortdesc>
  <conbody>
-  <p></p>
+  <p>Websites </p>
+  <ul>
+   <li>
+    <xref href="http://www.isachandra.com/2012/10/blueberry-oatmeal-waffles/"
+     format="html" scope="external">Blueberry Oatmeal Waffles </xref>
+   </li>
+   <li>
+    <xref href="http://beardandbonnet.com/cold-busting-orange-juice-gluten-free-and-vegan/"
+     format="html" scope="external">Fresh Orange Juice</xref>
+   </li>
+   <li>
+    <xref href="http://minimalistbaker.com/simple-vegan-omelet/"
+     format="html" scope="external">Vegan Omelet</xref>
+   </li>
+   <li>
+    <xref href="http://www.vegkitchen.com/recipes/skillet-potato-and-tempeh-hash/"
+     format="html" scope="external">Potato and Tempeh Hash</xref>
+   </li>
+   <li>
+    <xref href="http://www.ilovevegan.com/how-to-make-a-vegan-breakfast-sandwich/"
+     format="html" scope="external">Vegan Breakfast Sandwich</xref>
+   </li>
+   <li>
+    <xref href="http://minimalistbaker.com/3-ingredient-caramel-frappe/"
+     format="html" scope="external">Caramel Frappe</xref>
+   </li>
+    <li>
+     <xref href="https://www.bettycrocker.com/recipes/cheddar-and-sausage-waffles/27e8dded-ec80-4a00-bf2c-68e4c2c1ac48"
+     format="html"  scope="external">Cheddar and Sausage Waffles </xref>
+     </li>
+   <li>
+    <xref href="http://www.incredibleegg.org/recipe/basic-french-omelet/"
+     format="html" scope="external">Omelet</xref>
+   </li>
+   <li>
+    <xref href="http://www.jamieoliver.com/recipes/pork-recipes/potato-amp-chorizo-breakfast-hash/"
+     format="html" scope="external">Potato and Chorizo Hash</xref>
+   </li>
+   <li>
+    <xref href="http://natashaskitchen.com/2016/05/20/breakfast-sandwich/"
+     format="html" scope="external">Breakfast Sandwich</xref>
+   </li>
+   
+  </ul>
  </conbody>
 </concept>
