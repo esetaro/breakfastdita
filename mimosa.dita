@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_yqg_m4l_kz">
-    <title></title>
-    <shortdesc/>
+    <title>How to Make a Mimosa</title>
+    <shortdesc>Looking for something a but stronger to wake you up on the morning? This delicious
+        Mimosa will certainly do the trick!<image href="images%20/mimosa.jpg" width="300"
+            height="400" id="image_n2q_n5t_kz"/></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Food Ingredients</p>
+            <ul>
+                <li>Champagne glass</li>
+            </ul>
+            <p>Kitchen Utensils</p>
+            <ul>
+                <li>1 bottle chilled dry sparkling wine</li>
+                <li>3 cups chilled orange juice</li>
+                <li>1/2 cup Grand Marnier</li>
+            </ul>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Fill your champagne flute 1/2 full with chilled sparkling wine.</cmd>
+            </step>
+            <step>
+                <cmd> Top with orange juice. </cmd>
+            </step>
+            <step>
+                <cmd>Top Mimosa with 1 tbsp of Grand Marnier </cmd>
             </step>
         </steps>
     </taskbody>
