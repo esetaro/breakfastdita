@@ -2,6 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Mom's Breakfast</title>
+  <topicref href="c-intro.dita"/>
  <topichead navtitle="Drinks">
   <topicmeta>
    <shortdesc>Thirsty? These drinks will quench your thirst!</shortdesc>
@@ -18,4 +19,8 @@
  <topicref href="t-waffles.dita"/>
  <topicref href="t-hash.dita"/>
  </topichead>
+ <topicref href="contact.md"/>
+ <topicref href="l-cleanup.dita"/>
+ <topicref href="l-safety.dita"/>
+ <topicref href="finding.md"/>
 </map>
