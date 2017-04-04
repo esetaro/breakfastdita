@@ -2,10 +2,16 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title/>
+ <topicref href="c-intro.dita"/>
+ <topicref href="finding.md" format="markdown"/>
  <topicref href="t-latte.dita"/>
  <topicref href="t-mimosa.dita"/>
  <topicref href="t-omelet.dita"/>
  <topicref href="t-sandwich.dita"/>
  <topicref href="t-waffles.dita"/>
  <topicref href="t-hash.dita"/>
+ <topicref href="l-safety.dita"/>
+ <topicref href="l-cleanup.dita"/>
+ <topicref href="c-citations.dita"/>
+ <topicref href="contact.md" format="markdown"/>
 </map>
