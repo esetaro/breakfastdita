@@ -5,7 +5,7 @@
   <shortdesc>It is imperative that you handle all kitchen appliances with care as to not injure
     yourself. </shortdesc>
   <body>
-    <p>Many of the appliances have moving parts and blades. Be sure not to place your fingers
+    <p id="appliances">Many of the appliances have moving parts and blades. Be sure not to place your fingers
       anywhere near these movings parts. When using the oven and the stovetop use caution to avoid
       burning yourself. <image href="images%20/safety.jpg" width="250" height="200"/></p>
   </body>
