@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map/>
+<map>
+   <appContext helpID="c-intro" path="c-intro.html"/>
+   <appContext helpID="c-frappe" path="c-frappe.html"/>
+   <appContext helpID="t-latte" path="t-frappe.html"/>
+   <appContext helpID="c-oj" path="c-oj.html"/>
+   <appContext helpID="t-mimosa" path="t-oj.html"/>
+   <appContext helpID="c-sandwich" path="c-sandwich.html"/>
+   <appContext helpID="t-sandwich" path="t-sandwich.html"/>
+   <appContext helpID="c-omelet" path="c-omelet.html"/>
+   <appContext helpID="t-omelet" path="t-omelet.html"/>
+   <appContext helpID="c-waffles" path="c-waffles.html"/>
+   <appContext helpID="t-waffles" path="t-waffles.html"/>
+   <appContext helpID="c-hash" path="c-hash.html"/>
+   <appContext helpID="t-hash" path="t-hash.html"/>
+   <appContext helpID="l-cleanup" path="l-cleanup.html"/>
+   <appContext helpID="l-safety" path="l-safety.html"/>
+   <appContext helpID="" path="contacte.html"/>
+   <appContext helpID="" path="finding.html"/>
+   <appContext helpID="c-citations" path="c-citations.html"/>
+</map>

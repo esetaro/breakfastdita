@@ -1,4 +1,4 @@
-# Contact Information
+Contact Information 
 
 If you should have any issues or questions, please don't hesitate to call me for help. I can be reached by the following:
 

@@ -3,13 +3,24 @@
 <map>
  <title>Armando's Breakfast</title>
  <topicref href="c-intro.dita"/>
+ 
+ <topichead navtitle="About">
+  <topicmeta>
+   <shortdesc>Want to Know more about each meal?</shortdesc>
+  </topicmeta>
+ </topichead>
+ <topicref href="c-frappe.dita"/>
+ <topicref href="c-oj.dita"/>
+ <topicref href="c-sandwich.dita"/>
+ <topicref href="c-omelet.dita"/>
+ <topicref href="c-waffles.dita"/>
+ <topicref href="c-hash.dita"/>
+ 
 <topichead navtitle="Drinks">
  <topicmeta>
   <shortdesc>Thirsty? These drinks will quench your thirst!</shortdesc>
  </topicmeta>
- <topicref href="c-frappe.dita"/>
  <topicref href="t-frappe.dita"/>
- <topicref href="c-oj.dita"/>
  <topicref href="t-oj.dita"/>
  </topichead>
  
@@ -17,13 +28,9 @@
   <topicmeta>
    <shortdesc>Feeling hungry? These meal recipes will satisfy your every craving!</shortdesc>
   </topicmeta>
-  <topicref href="c-sandwich.dita"/>
   <topicref href="t-sandwich.dita"/>
-  <topicref href="c-omelet.dita"/>
   <topicref href="t-omelet.dita"/>
-  <topicref href="c-waffles.dita"/>
   <topicref href="t-waffles.dita"/>
-  <topicref href="c-hash.dita"/>
   <topicref href="t-hash.dita"/>
  </topichead>
  
@@ -33,7 +40,7 @@
   </topicmeta>
  <topicref href="l-cleanup.dita"/>
  <topicref href="l-safety.dita"/>
- <topicref href="contact.md"/>
+ <topicref href="contacte.md"/>
  <topicref href="finding.md"/>
  <topicref href="c-citations.dita"/>
  </topichead>
