@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="t-frappe" path="t-frappe.html"/>
+   <appContext helpID="t-oj" path="t-oj.html"/>
+   <appContext helpID="task_ktf_flk_kz" path="t-vomelet.html"/>
+   <appContext helpID="t-vsandwich" path="t-vsandwich.html"/>
+   <appContext helpID="t-vwaffles" path="t-vwaffles.html"/>
+   <appContext helpID="t-vhash" path="t-vhash.html"/>
+</map>

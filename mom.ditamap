@@ -3,10 +3,16 @@
 <map>
  <title>Mom's Breakfast</title>
  <topichead navtitle="Drinks">
+  <topicmeta>
+   <shortdesc>Thirsty? These drinks will quench your thirst!</shortdesc>
+  </topicmeta>
  <topicref href="t-latte.dita"/>
  <topicref href="t-mimosa.dita"/>
  </topichead>
  <topichead navtitle="Meals">
+  <topicmeta>
+   <shortdesc>Feeling hungry? These meal recipes will satisfy your every craving!</shortdesc>
+  </topicmeta>
  <topicref href="t-omelet.dita"/>
  <topicref href="t-sandwich.dita"/>
  <topicref href="t-waffles.dita"/>
