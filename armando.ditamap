@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
- <topicref href="c-intro.dita"/>
- <topicref href="finding.md" format="markdown"/>
+ <title>Armando Breakfast</title>
  <topicref href="t-frappe.dita"/>
  <topicref href="t-oj.dita"/>
  <topicref href="t-vomelet.dita"/>
  <topicref href="t-vsandwich.dita"/>
  <topicref href="t-vwaffles.dita"/>
  <topicref href="t-vhash.dita"/>
- <topicref href="l-safety.dita"/>
- <topicref href="l-cleanup.dita"/>
- <topicref href="c-citations.dita"/>
- <topicref href="contact.md" format="markdown"/>
 </map>
