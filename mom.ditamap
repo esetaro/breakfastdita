@@ -2,6 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
  <title>Mom's Breakfast</title>
+ <topicmeta>
+  <author>Elizabeth Setaro</author>
+ </topicmeta>
   <topicref href="c-intro.dita"/>
  
  <topichead navtitle="About">
@@ -40,8 +43,8 @@
   </topicmeta>
  <topicref href="l-cleanup.dita"/>
  <topicref href="l-safety.dita"/>
-  <topicref href="contacte.md" format="markdown"/>
-  <topicref href="finding.md" format="markdown"/>
+  <topicref href="contacte.md" format="markdown"> <topicmeta> <shortdesc> If you have any questions, here's how you can contact me! </shortdesc> </topicmeta> </topicref>
+  <topicref href="finding.md" format="markdown"><topicmeta><shortdesc> Need help finding kitchen utensils and ingredients? Item locations are explained here. </shortdesc> </topicmeta> </topicref>
  <topicref href="c-citations.dita"/>
  </topichead>
 </map>
