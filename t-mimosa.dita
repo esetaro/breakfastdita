@@ -3,29 +3,56 @@
 <task id="t-mimosa">
     <title>How to Make a Mimosa</title>
     <shortdesc>Looking for something a but stronger to wake you up on the morning? This delicious
-        Mimosa will certainly do the trick!<image href="images%20/mimosa.jpg" width="300"
-            height="400" id="image_n2q_n5t_kz"/></shortdesc>
+        Mimosa will certainly do the trick!<image audience="armando" href="images%20/orangejuice.jpg" width="250"
+            height="350" id="image_j4r_5h5_lz"/><image audience="mom" href="images%20/mimosa.jpg"
+            width="300" height="400" id="image_n2q_n5t_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
             <ul>
-                <li>Champagne glass</li>
+                <li audience="mom">1 bottle chilled dry sparkling wine</li>
+                <li audience="mom">1/2 cup Grand Marnier</li>
+                <li>4 large oranges, peeled</li>
+                <li>2 large carrots, peeled</li>
+                <li>1/4 cup pineapple, peeled and core removed</li>
             </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>1 bottle chilled dry sparkling wine</li>
-                <li>3 cups chilled orange juice</li>
-                <li>1/2 cup Grand Marnier</li>
+                <li audience="mom">Champagne glass</li>
+                <li> Juicer <image audience="armando" href="images%20/juicer.jpg" width="150" height="150"
+                    id="image_dwr_2yt_kz"/></li>
+                <li audience="armando">Glass</li>
+                <li>Cutting board</li> 
+                <li>Knife</li>
             </ul>
+            
         </context>
         <steps>
             <step>
+                <cmd>Remove Juicer from cabinet above the stove. </cmd>
+            </step>
+            <step>
+                <cmd>Turn on the Juicer by pressing the red switch left to the ON setting.</cmd>
+            </step>
+            <step>
+                <cmd>Choose JUICE from the list of options.</cmd>
+            </step>
+            <step>
+                <cmd> Feed all of the ingredients through your juicer through the opening on the top.</cmd>
+            </step>
+            <step>
+                <cmd>Transfer to a large glass jar for storing. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Shake well to combine before serving.</cmd>
+            </step>
+            <step audience="mom">
                 <cmd>Fill your champagne flute 1/2 full with chilled sparkling wine.</cmd>
             </step>
-            <step>
-                <cmd>Top with orange juice. </cmd>
+            <step audience="mom">
+                <cmd>Top with orange juice mixture you just made. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Top Mimosa with 1 tbsp of Grand Marnier </cmd>
             </step>
         </steps>
