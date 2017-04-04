@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-omelet">
-    <title>How to Make a Ham and Cheese Omelet</title>
+    <title>How to Make an Omelet</title>
     <shortdesc>Omelets are delicious! Using this recipe you can create something to make for both
         your friends and family!<image audience="mom" href="images%20/omelet.jpg" width="400"
             height="400" id="image_jtg_wbn_kz"/> <image audience="armando" href="images%20/veganomelet.jpg" width="350"
@@ -70,9 +70,6 @@
             <step audience="armando">
                 <cmd>Add back 1/4 of the veggies and spoon on the omelet batter, spreading it gently with a spoon or rubber spatula, being careful not to tear or cause gaps.</cmd>
             </step>
-            <step audience="armando">
-                <cmd>Using an oven mitt, in the last few minutes of cooking carefully add remaining veggies back on top of the omelet and cook another 1-2 minutes to warm through.</cmd>
-            </step>
             <step audience="mom">
                 <cmd>Dice pepper and finely chop ham and bacon. </cmd>
             </step>
@@ -99,6 +96,9 @@
             </step>
             <step>
                 <cmd>Cook over medium heat on the stove top for 5 minutes until the edges start to dry. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Using an oven mitt, in the last few minutes of cooking carefully add remaining veggies back on top of the omelet and cook another 1-2 minutes to warm through.</cmd>
             </step>
             <step>
                 <cmd>Fold the omelet in half and place in 375 F oven and bake until dry and deep golden brown – 10-15 minutes. </cmd>
