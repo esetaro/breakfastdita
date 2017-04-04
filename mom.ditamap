@@ -7,17 +7,17 @@
  </topicmeta>
   <topicref href="c-intro.dita"/>
  
- <topichead navtitle="About">
+ <topichead navtitle="About the Recipes">
   <topicmeta>
    <shortdesc>Want to Know more about each meal?</shortdesc>
   </topicmeta>
+  <topicref href="c-frappe.dita"/>
+  <topicref href="c-oj.dita"/>
+  <topicref href="c-sandwich.dita"/>
+  <topicref href="c-omelet.dita"/>
+  <topicref href="c-waffles.dita"/>
+  <topicref href="c-hash.dita"/>
  </topichead>
- <topicref href="c-frappe.dita"/>
- <topicref href="c-oj.dita"/>
- <topicref href="c-sandwich.dita"/>
- <topicref href="c-omelet.dita"/>
- <topicref href="c-waffles.dita"/>
- <topicref href="c-hash.dita"/>
  
  <topichead navtitle="Drinks">
   <topicmeta>
