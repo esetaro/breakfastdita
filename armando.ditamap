@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title>Armando Breakfast</title>
+ <title>Armando's Breakfast</title>
+<topichead navtitle="Drinks">
  <topicref href="t-frappe.dita"/>
  <topicref href="t-oj.dita"/>
+ </topichead>
+ <topichead navtitle="Meals">
  <topicref href="t-vomelet.dita"/>
  <topicref href="t-vsandwich.dita"/>
  <topicref href="t-vwaffles.dita"/>
  <topicref href="t-vhash.dita"/>
+ </topichead>
 </map>
