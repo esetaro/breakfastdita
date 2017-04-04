@@ -1,47 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-hash">
-    <title>How to Make a Potato and Chorizo Breakfast Hash</title>
-    <shortdesc>Delicious and filling: the perfect combination!<image href="images%20/hash.jpg"
-            width="400" height="300" id="image_k4w_h2n_kz"/></shortdesc>
+    <title> How to Make a Breakfast Hash </title>
+    <shortdesc>Delicious and filling: the perfect combination!<image audience="mom" href="images%20/hash.jpg"
+        width="400" height="300" id="image_k4w_h2n_kz"/> <image audience="armando" href="images%20/veganhash.jpg" width="300"
+            height="200" id="image_rnl_fg5_lz"/></shortdesc>
     <taskbody>
-        <context>
-            <p>Food Ingredients</p>
+        <context><p>Food Ingredients</p>
             <ul>
-                <li>1 large onion</li>
+                <li>1 medium onion, finely chopped</li>
                 <li>1 clove of garlic</li>
-                <li>1/4 lb chorizo</li>
-                <li>3 cooked potatoes</li>
-                <li>1/2 bucnh of fresh parsley</li>
+                <li>1 tsp smoked paprika</li>
+                <li>Salt and black pepper to taste</li>
                 <li>olive oil</li>
-                <li>2 large eggs</li>
-            </ul>
-            <p>Kitchen Untensils</p>
-            <ul>
+                <li>3 cooked potatoes</li>
+                <li audience="mom">1/4 lb chorizo</li>
+                <li audience="mom">1/2 bunch of fresh parsley</li>
+                <li audience="mom">2 large eggs</li>
+                <li audience="armando">1 medium green or red bell pepper, finely diced</li>
+                <li audience="armando">8 ounces package tempeh meat substitute, finely diced</li>
+                <li audience="armando">6 leaves kale, stemmed and finely chopped</li>
+            </ul><p>Kitchen Untensils</p><ul>
                 <li>Oven</li>
                 <li>Spatula</li>
                 <li>Medium skillet</li>
-            </ul>
-        </context>
+            </ul></context>
         <steps>
             <step>
                 <cmd>Preheat the oven to 350 F. </cmd>
             </step>
-            <step>
+            <step audience="armando">
+                <cmd>Add the onion and sauté over MEDIUM heat until translucent. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the bell pepper, tempeh, and potatoes. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Turn the heat up to MEDIUM HIGH, and continue to sauté until all are turning golden brown and stir frequently.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add the seasonings and kale. </cmd>
+            </step>
+            <step audience="mom">
                 <cmd>Peel and finely chop the onion and garlic, chop the chorizo, dice up the cooked potato and finely chop the parsley.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Gently fry the onion and garlic in a little oil in an ovenproof pan until the onion is soft. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add the chorizo and fry for 2 to 3 minutes.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add the potatoes and cook for 5 minutes more, then crack the eggs on top.</cmd>
             </step>
             <step>
-                <cmd>Transfer the pan to the preheated oven and bake for 8 minutes, or until the egg
-                    white is set but the yolk is still runny.</cmd>
+                <cmd>Transfer the pan to the preheated oven and bake for 8 minutes.</cmd>
             </step>
             <step>
                 <cmd>Sprinkle with sea salt, black pepper and the parsley, to serve.</cmd>
