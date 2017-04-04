@@ -7,20 +7,34 @@
  <topicmeta>
   <shortdesc>Thirsty? These drinks will quench your thirst!</shortdesc>
  </topicmeta>
+ <topicref href="c-frappe.dita"/>
  <topicref href="t-frappe.dita"/>
+ <topicref href="c-oj.dita"/>
  <topicref href="t-oj.dita"/>
  </topichead>
+ 
  <topichead navtitle="Meals">
   <topicmeta>
    <shortdesc>Feeling hungry? These meal recipes will satisfy your every craving!</shortdesc>
   </topicmeta>
- <topicref href="t-vomelet.dita"/>
- <topicref href="t-sandwich.dita"/>
- <topicref href="t-vwaffles.dita"/>
- <topicref href="t-vhash.dita"/>
+  <topicref href="c-sandwich.dita"/>
+  <topicref href="t-sandwich.dita"/>
+  <topicref href="c-omelet.dita"/>
+  <topicref href="t-omelet.dita"/>
+  <topicref href="c-waffles.dita"/>
+  <topicref href="t-waffles.dita"/>
+  <topicref href="c-hash.dita"/>
+  <topicref href="t-hash.dita"/>
  </topichead>
- <topicref href="contact.md"/>
+ 
+ <topichead navtitle="Tips and Tricks">
+  <topicmeta>
+   <shortdesc>Having Issues?</shortdesc>
+  </topicmeta>
  <topicref href="l-cleanup.dita"/>
  <topicref href="l-safety.dita"/>
+ <topicref href="contact.md"/>
  <topicref href="finding.md"/>
+ <topicref href="c-citations.dita"/>
+ </topichead>
 </map>
