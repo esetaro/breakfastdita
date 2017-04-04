@@ -28,6 +28,9 @@
         <steps>
             <step>
                 <cmd>Preheat the oven to 350 F. </cmd>
+                <info>
+                    <p conref="l-safety.dita#l-safety/warning"/>
+                </info>
             </step>
             <step audience="armando">
                 <cmd>Add the onion and sauté over MEDIUM heat until translucent. </cmd>

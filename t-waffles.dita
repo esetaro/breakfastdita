@@ -66,6 +66,9 @@
             <step>
                 <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.
                 </cmd>
+                <info>
+                    <p conref="l-safety.dita#l-safety/warning"/>
+                </info>
             </step>
             <step>
                 <cmd>Grease the waffle iron with cooking spray.</cmd>

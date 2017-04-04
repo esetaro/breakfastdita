@@ -44,6 +44,9 @@
         <steps>
             <step>
                 <cmd>Preheat oven to 375 degrees F by pressing PREHEAT, 375, and START.</cmd>
+                <info>
+                    <p conref="l-safety.dita#l-safety/warning"/>
+                </info>
             </step>
             <step audience="armando">
                 <cmd>Prep veggies, drain and dry tofu, and mince garlic. </cmd>

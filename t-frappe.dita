@@ -31,7 +31,10 @@
             <step>
                 <cmd>Strain the cold brew through a coffee filter fitted over a coffee pot.</cmd>
             </step>
-            <step> <cmd>Add all ice cubes to a blender as well as cup of the coffee and 5 tbsp of the caramel sauce to start out.</cmd> 
+            <step> <cmd>Add all ice cubes to a blender as well as cup of the coffee and 5 tbsp of the caramel sauce to start out.</cmd>
+                <info>
+                    <p conref="l-safety.dita#l-safety/warning"/>
+                </info> 
             </step>
             <step>
                 <cmd>Blend until smooth, adding more coffee if it's too thick.</cmd>

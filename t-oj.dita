@@ -33,6 +33,9 @@
             </step>
             <step>
                 <cmd>Turn on the Juicer by pressing the red switch left to the ON setting.</cmd>
+                <info>
+                    <p conref="l-safety.dita#l-safety/warning"/>
+                </info>
             </step>
             <step>
                 <cmd>Choose JUICE from the list of options.</cmd>
