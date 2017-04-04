@@ -3,58 +3,98 @@
 <task id="t-omelet">
     <title>How to Make a Ham and Cheese Omelet</title>
     <shortdesc>Omelets are delicious! Using this recipe you can create something to make for both
-        your friends and family!<image href="images%20/omelet.jpg" width="400" height="400"
-            id="image_jtg_wbn_kz"/></shortdesc>
+        your friends and family!<image audience="mom" href="images%20/omelet.jpg" width="400"
+            height="400" id="image_jtg_wbn_kz"/> <image audience="armando" href="images%20/veganomelet.jpg" width="350"
+            height="250" id="image_gty_y35_lz"/> </shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
             <ul>
-                <li>2 eggs</li>
+                <li audience="mom">2 eggs</li>
                 <li>2 cloves garlic</li>
                 <li>2 tbsp water </li>
                 <li>1/8 tsp salt</li>
                 <li>Dash pepper</li>
-                <li>1 tsp butter</li>
-                <li> 1/3 cup shredded cheese</li>
-                <li>1/3 cup bacon</li>
-                <li>1/3 cup finely chopped ham</li>
+                <li>1/4 tsp paprika </li>
+                <li audience="mom">1 tsp butter</li>
+                <li audience="mom"> 1/3 cup shredded cheese</li>
+                <li audience="mom">1/3 cup bacon</li>
+                <li audience="mom">1/3 cup finely chopped ham</li>
                 <li>1/3 diced bell pepper</li>
+                
+                <li audience="armando">3/4 cup firm silken tofu, drained and gently patted dry</li>
+                <li audience="armando">2 tbsp hummus</li>
+                <li audience="armando">2 tbsp yeast</li>
+                <li audience="armando">1 tsp cornstarch</li>
+                <li audience="armando">1 cup veggies of choice (onion, tomato, mushroom, spinach) </li>
             </ul>
             <p>Kitchen Untensils</p>
             <ul>
-                <li>Medium skillet</li>
+               
                 <li>Spatula</li>
-                <li>Oven</li>
+             <li> Medium skillet</li>
                 <li>Oven mitts</li>
-                <li>2 Medium bowls</li>
+                <li audience="armando">2 Medium bowls</li>
+                <li>Oven <image audience="armando" href="images%20/oven.jpg" width="100" height="200" id="image_aq5_byt_kz"/></li>
+                <li audience="armando">Food processor<image audience="armando" href="images%20/foodp.jpg" width="250" height="200"
+                    id="image_oxl_fl5_kz"/></li>
+                <li audience="mom">Medium mixing bowl</li>
             </ul>
         </context>
         <steps>
             <step>
-                <cmd>Preheat oven to 375 degrees F.</cmd>
+                <cmd>Preheat oven to 375 degrees F by pressing PREHEAT, 375, and START.</cmd>
             </step>
-            <step>
+            <step audience="armando">
+                <cmd>Prep veggies, drain and dry tofu, and mince garlic. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Turn on the stovetop by turning the knob the MEDIUM HIGH.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Heat a medium, oven-safe skillet over medium heat.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add olive oil and minced garlic and cook for 1-2 minutes or until just lightly golden brown.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Transfer garlic to food processor, along with remaining omelet ingredients (tofu – cornstarch) and mix to combine, scraping down sides as needed. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add a bit more olive oil and the veggies to the warm skillet and season with salt and pepper and sauté to desired doneness. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Remove skillet from heat and make sure it’s coated with enough oil so the
+                    omelet doesn’t stick. </cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Add back 1/4 of the veggies and spoon on the omelet batter, spreading it gently with a spoon or rubber spatula, being careful not to tear or cause gaps.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Using an oven mitt, in the last few minutes of cooking carefully add remaining veggies back on top of the omelet and cook another 1-2 minutes to warm through.</cmd>
+            </step>
+            <step audience="mom">
                 <cmd>Dice pepper and finely chop ham and bacon. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Heat a medium, oven-safe skillet over medium heat. Once hot, add butter and minced garlic and cook for 1-2 minutes or until just lightly golden brown.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Mix bacon, cheese, ham, bell pepper in a bowl for filling.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>In a separate combine eggs water and salt.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add a bit more butter and the filling to the warm skillet and season with salt and pepper and sauté to desired doneness. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Remove skillet from heat and make sure it’s coated with enough oil so the omelet doesn’t stick. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Add the omelet batter to the skillet, spreading it gently with a spoon or rubber spatula, being careful not to tear or cause gaps. </cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Place 1/3 cup of filling into center on top of batter. </cmd>
             </step>
             <step>
@@ -62,11 +102,6 @@
             </step>
             <step>
                 <cmd>Fold the omelet in half and place in 375 F oven and bake until dry and deep golden brown – 10-15 minutes. </cmd>
-            </step>
-            <step>
-                <cmd>Using an oven mitt, in the last few minutes of cooking carefully add remaining
-                    veggies back on top of the omelet and cook another 1-2 minutes to warm
-                    through.</cmd>
             </step>
             <step>
                 <cmd>Carefully remove from oven. </cmd>
