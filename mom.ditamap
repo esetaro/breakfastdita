@@ -40,8 +40,8 @@
   </topicmeta>
  <topicref href="l-cleanup.dita"/>
  <topicref href="l-safety.dita"/>
- <topicref href="contacte.md"/>
- <topicref href="finding.md"/>
+  <topicref href="contacte.md" format="markdown"/>
+  <topicref href="finding.md" format="markdown"/>
  <topicref href="c-citations.dita"/>
  </topichead>
 </map>
