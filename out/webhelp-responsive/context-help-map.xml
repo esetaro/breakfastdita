@@ -15,7 +15,7 @@
    <appContext helpID="t-hash" path="t-hash.html"/>
    <appContext helpID="l-cleanup" path="l-cleanup.html"/>
    <appContext helpID="l-safety" path="l-safety.html"/>
-   <appContext helpID="" path="contacte.html"/>
+   <appContext helpID="contact_information" path="contact.html"/>
    <appContext helpID="where_to_find_kitchen_utensils_and_ingredients"
                path="finding.html"/>
    <appContext helpID="c-citations" path="c-citations.html"/>

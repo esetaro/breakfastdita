@@ -63,8 +63,9 @@
             <step audience="armando">
                 <cmd>Fold in the blueberries.</cmd>
             </step>
-            <step conref="l-safety.dita#l-safety/appliances">
-                <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.</cmd>
+            <step>
+                <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.
+                </cmd>
             </step>
             <step>
                 <cmd>Grease the waffle iron with cooking spray.</cmd>
