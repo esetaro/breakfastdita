@@ -3,8 +3,9 @@
 <task id="t-waffles">
     <title> How to Make Savory Waffles</title>
     <shortdesc>Waffles are an excellent way to start your day. These delicious waffles are hearty,
-        healthy, and easy to make.<image href="images%20/waffle.jpg" width="300" height="450"
-            id="image_ns3_htm_kz"/></shortdesc>
+        healthy, and easy to make.<image audience="mom" href="images%20/waffle.jpg" width="300" height="450"
+            id="image_ns3_htm_kz"/> <image audience="armando" href="images%20/veganwaffle.jpg" width="400"
+                height="300" id="image_khp_ftm_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>
@@ -12,35 +13,55 @@
                 <li>1 cup white whole wheat flour</li>
                 <li>1 tablespoon baking powder</li>
                 <li>1/2 teaspoon salt</li>
-                <li>1 1/3 cups milk</li>
+                <li audience="mom">1 1/3 cups milk</li>
                 <li>2 tablespoons vegetable oil</li>
-                <li>1 egg</li>
-                <li>1 cup shredded Cheddar cheese</li>
-                <li>1/3 lb pork sausage, cooked and drained (1 cup)</li>
+                <li audience="mom">1 egg</li>
+                <li audience="mom">1 cup shredded Cheddar cheese</li>
+                <li audience="mom">1/3 lb pork sausage, cooked and drained (1 cup)</li>
+                <li audience="armando">1/4 tsp ground allspice</li> 
+                <li audience="armando">1 cup quick cooking oats</li> 
+                <li audience="armando">1/3 cup unsweetened applesauce</li> 
+                <li audience="armando">1 1/2 cups unsweetened almond milk</li> 
+                <li audience="armando">3 tbsp pure maple syrup</li> 
+                <li audience="armando">1 tsp pure vanilla extract</li>
+                <li audience="armando">1 1/2 cups frozen blueberries</li>
                 </ul>
             <p>Kitchen Utensils</p>
             <ul>
-                <li>Waffle iron<image href="images%20/waffle%20iron.jpg" width="200" height="150"
+                <li>Waffle iron<image audience="armando" href="images%20/waffle%20iron.jpg" width="200" height="150"
                         id="image_tpc_wxt_kz"/></li>
                 <li>Large mixing bowl</li>
                 <li>Spatula</li> 
             </ul>
         </context>
         <steps>
-            <step>
+            <step audience="mom">
                 <cmd>Sift flour, baking powder, and salt into a mixing bowl.</cmd>
             </step>
-            <step>
+            <step audience="armando">
+                <cmd>Sift flour, baking powder, salt and allspice into a mixing bowl.</cmd>
+            </step>
+            <step audience="mom">
                 <cmd>Mix in the milk.</cmd>
             </step>
-            <step>
+            <step audience="mom">
                 <cmd>Make a well in the center and oil, egg, cheese and sausage.</cmd>
+            </step>
+            
+            <step audience="armando">
+                <cmd>Mix in the oats.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Make a well in the center and add applesauce, milk, maple syrup, oil and vanilla. </cmd>
             </step>
             <step>
                 <cmd>Stir until combined.</cmd>
             </step>
             <step>
                 <cmd>Let batter rest for 5 minutes, it will thicken a bit.</cmd>
+            </step>
+            <step audience="armando">
+                <cmd>Fold in the blueberries.</cmd>
             </step>
             <step>
                 <cmd>Heat waffle iron by turning red knob to the MEDIUM HIGH setting.</cmd>
@@ -57,6 +78,7 @@
             <step>
                 <cmd>Repeat steps 7-9 until you have used up all the batter.</cmd>
             </step>
+          
         </steps>
     </taskbody>
 </task>
