@@ -3,9 +3,10 @@
 <task id="t-mimosa">
     <title>How to Make Fresh-Squeezed Orange Juice</title>
     <shortdesc>Looking for something a but stronger to wake you up on the morning? This delicious
-        Mimosa will certainly do the trick!<image audience="armando" href="images%20/orangejuice.jpg" width="250"
-            height="350" id="image_j4r_5h5_lz"/><image audience="mom" href="images%20/mimosa.jpg"
-            width="300" height="400" id="image_n2q_n5t_kz"/></shortdesc>
+        Mimosa will certainly do the trick!           <image audience="armando"
+            href="images%20/orangejuice.jpg" width="250" height="350" id="image_j4r_5h5_lz"/><image
+            audience="mom" href="images%20/mimosa.jpg" width="300" height="400"
+            id="image_n2q_n5t_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>

@@ -2,9 +2,10 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-latte">
     <title>How to Make a Caramel Frappe</title>
-    <shortdesc>Ever had a homemade frappe? This recipe can be made at home and this delightful drink will certainly wake you up!<image
-            href="images%20/vegan%20coffee.jpg" width="200" height="300" id="image_rsk_3vm_kz"
-        /></shortdesc>
+    <shortdesc>Ever had a homemade frappe? This recipe can be made at home and this delightful drink
+        will certainly wake you up!
+        <image href="images%20/vegan%20coffee.jpg" width="200"
+            height="300" id="image_rsk_3vm_kz"/></shortdesc>
     <taskbody>
         <context>
             <p>Food Ingredients</p>

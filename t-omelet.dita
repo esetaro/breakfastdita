@@ -3,7 +3,8 @@
 <task id="t-omelet">
     <title>How to Make an Omelet</title>
     <shortdesc>Omelets are delicious! Using this recipe you can create something to make for both
-        your friends and family!<image audience="mom" href="images%20/omelet.jpg" width="400"
+        your friends and family!
+        <image audience="mom" href="images%20/omelet.jpg" width="400"
             height="400" id="image_jtg_wbn_kz"/> <image audience="armando" href="images%20/veganomelet.jpg" width="350"
             height="250" id="image_gty_y35_lz"/> </shortdesc>
     <taskbody>

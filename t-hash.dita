@@ -2,9 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-hash">
     <title> How to Make a Breakfast Hash </title>
-    <shortdesc>Delicious and filling: the perfect combination!<image audience="mom" href="images%20/hash.jpg"
-        width="400" height="300" id="image_k4w_h2n_kz"/> <image audience="armando" href="images%20/veganhash.jpg" width="300"
-            height="200" id="image_rnl_fg5_lz"/></shortdesc>
+    <shortdesc>Delicious and filling: the perfect combination!
+            <image audience="mom" href="images%20/hash.jpg" width="400" height="300"
+            id="image_k4w_h2n_kz"/>
+        <image audience="armando" href="images%20/veganhash.jpg" width="300" height="200"
+            id="image_rnl_fg5_lz"/></shortdesc>
     <taskbody>
         <context><p>Food Ingredients</p>
             <ul>
