@@ -1,4 +1,4 @@
-# Where to Find Kitchen Utensils and Ingredients
+# Finding Kitchen Utensils and Ingredients
 
 Upper Cabinets
 
