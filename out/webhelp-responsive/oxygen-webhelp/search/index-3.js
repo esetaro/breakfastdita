@@ -1,5 +1,6 @@
 
 // Auto generated index for searching.
+w["preferences"]="3*0";
 w["preheat"]="13*0,15*1,18*1";
 w["preheated"]="13*0";
 w["prep"]="15*0,18*0";
